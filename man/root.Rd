@@ -4,10 +4,12 @@
 \alias{root}
 \title{Computes root of vector}
 \usage{
-root(x)
+root(x, n = 2)
 }
 \arguments{
 \item{x}{a vector}
+
+\item{n}{a scalar}
 }
 \description{
 Computes root of vector
