@@ -4,7 +4,7 @@
 \alias{root}
 \title{Computes root of vector}
 \usage{
-root(x, n = 2)
+root(x, n = 6)
 }
 \arguments{
 \item{x}{a vector}
