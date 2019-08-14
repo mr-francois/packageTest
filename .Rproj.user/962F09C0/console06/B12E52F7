@@ -196,4 +196,17 @@ $[0K[3G[?25h[?25l$ git checkout master[0K[?25h[?25l$ git branch -d dev2
 [0K[?25hDeleted branch dev2 (was 5376da1).[0K[?25l
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+]0;:/c/Users/user/Documents/packageTest[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$ git[0K[7G[?25h[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[?25l
+[0K[?25h  dev[0K[?25l
+* [0;32mmaster[0m[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git branch[0K[?25h[?25l$ git branc[0K[?25h[?25l$ git bran[0K[?25h[?25l$ git bra[0K[?25h[?25l$ git br[0K[?25h[?25l$ git b[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout d[0K[?25he[0Kv[0K[?25l
+[0K[?25hSwitched to branch 'dev'[0K[?25l
+M       .Rproj.user/962F09C0/console06/B12E52F7[0K
+M       .Rproj.user/962F09C0/console06/INDEX001[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev)[0m[0K
 $[0K[3G[?25h
