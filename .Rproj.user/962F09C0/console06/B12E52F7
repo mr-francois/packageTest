@@ -64,4 +64,136 @@ Writing objects: 100% (65/65), 6.03 KiB | 686.00 KiB/s, done.[0K
  + fec90d9...32f3a63 master -> master (forced update)[0K
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+]0;:/c/Users/user/Documents/packageTest[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$ git[0K[7G[?25h[8G[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[?25l
+[0K[?25horigin[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote[0K[?25h[?25l$ git remot[0K[?25h[?25l$ git remo[0K[?25h[?25l$ git rem[0K[?25h[?25l$ git re[0K[?25h[?25l$ git r[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
+        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0m[0K
+        [0;31mmodified:   tests/testthat/test-1.R[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l$ git statu[0K[?25h[?25l$ git stat[0K[?25h[?25l$ git sta[0K[?25h[?25l$ git st[0K[?25h[?25l$ git s[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git d[0K[?25hi[0Kf[0Kf[0K[?25l
+[0K[?25h[0;1mdiff --git a/.Rproj.user/962F09C0/console06/B12E52F7 b/.Rproj.user/962F09C0/console06/B12E[0K5[?25l
+2F7[0m[0K
+[0;1mindex 5fc6772..9fd0cdb 100644[0m[0K
+[0;1m--- a/.Rproj.user/962F09C0/console06/B12E52F7[0m[0K
+[0;1m+++ b/.Rproj.user/962F09C0/console06/B12E52F7[0m[0K
+[0;36m@@ -64,4 +64,26 @@[0m Writing objects: 100% (65/65), 6.03 KiB | 686.00 KiB/s, done.[0K
+  + fec90d9...32f3a63 master -> master (forced update)[0K
+[0K
+ [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+[0;31m-$[0m[0K
+\ No newline at end of file[0K
+[0;32m+0;:/c/Users/user/Documents/packageTest[0;30;42m^G[0;31;47m^M[0m[0K
+[0;32m+user@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0;31;47m^M[0m[0K
+[0;32m+$ git[0;30;42m^M[0;32m$ git remote[0;31;47m^M[0m[0K
+[0;32m+origin[0;31;47m^M[0m[0K
+[0;32m+[0;31;47m^M[0m[0K
+[0;32m+user@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0;31;47m^M[0m[0K
+[0;32m+$[0;30;42m^M[0;32m$ git remote[0;30;42m^M[0;32m$ git remot[0;30;42m^M[0;32m$ git remo[0;30;42m^M[0;32m$ git rem[0;30;42m^M[0;32m$ git re[0;30;42m^M[0;32m$ git r[0;30;42m^M[0;32m$ git[0;30;42m^M[0;32m$ git stat[0Ku
+s[0;31;47m^M[0m[0K
+[0;32m+On branch master[0;31;47m^M[0m[0K
+[0;32m+Your branch is up to date with 'origin/master'.[0;31;47m^M[0m[0K
+[0;32m+[0;31;47m^M[0m[0K
+[0;32m+Changes not staged for commit:[0;31;47m^M[0m[0K
+[0;32m+  (use "git add <file>..." to update what will be committed)[0;31;47m^M[0m[0K
+[0;32m+  (use "git checkout -- <file>..." to discard changes in working directory)[0;31;47m^M[0m[0K
+[0;32m+[0;31;47m^M[0m[0K
+[0;32m+        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0;31;47m^M[0m[0K
+[0;32m+        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0;31;47m^M[0m[0K
+[0;32m+        [0;31mmodified:   tests/testthat/test-1.R[0;31;47m^M[0m[0K
+[0;32m+[0;31;47m^M[0m[0K
+[0;32m+no changes added to commit (use "git add" and/or "git commit -a")[0;31;47m^M[0m[0K
+[0;32m+[0;31;47m^M[0m[0K
+:[0K[?25h[?25l[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ p[0K[?25hd[0Kf[0K[?25l$ pd[0K[?25hd[0K[?25l$ pd[0K[?25h[?25l$ p[0K[?25hw[0Kd[0K[?25l
+/c/Users/user/Documents/packageTest[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[?25l
+[0K[?25horigin[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[?25l
+[0K[?25h* [0;32mmaster[0m[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git branch[0K[?25h[?25l
+[0K[?25h* [0;32mmaster[0m[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git checkout -b iss53[0K[?25h[?25l$ git checkout -b iss5[0K[?25h[?25l$ git checkout -b iss[0K[?25h[?25l$ git checkout -b is[0K[?25h[?25l$ git checkout -b i[0K[?25h[?25l$ git checkout -b[0K[19G[?25h[18G[19G[?25l$ git checkout -b d[0K[?25he[0Kv[0K[?25l
+[0K[?25hSwitched to a new branch 'dev'[0K[?25l
+[0K[?25hM       .Rproj.user/962F09C0/console06/B12E52F7[0K[?25l
+M       .Rproj.user/962F09C0/console06/INDEX001[0K
+M       tests/testthat/test-1.R[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev)[0m[0K
+$[0K[3G[?25h[?25l$ git checkout -b dev[0K[?25h[?25l$ git checkout -b de[0K[?25h[?25l$ git checkout -b d[0K[?25h[?25l$ git checkout -b[0K[19G[?25h[?25l$ git checkout -b d[0K[?25he[0Kv[0K2[0K[?25l
+[0K[?25hSwitched to a new branch 'dev2'[0K[?25l
+M       .Rproj.user/962F09C0/console06/B12E52F7[0K
+M       .Rproj.user/962F09C0/console06/INDEX001[0K
+M       tests/testthat/test-1.R[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kb[0K[?25l$ git bra[0K[?25hn[0Kc[0Kj[0K[?25l
+[0K[?25hgit: 'brancj' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        branch[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git brancj[0K[?25h[?25l$ git branc[0K[?25hh[0K[?25l
+[0K[?25h  dev[0K[?25l
+* [0;32mdev2[0m[0K
+  master[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git branch[0K[?25h[?25l$ git branc[0K[?25h[?25l$ git bran[0K[?25h[?25l$ git bra[0K[?25h[?25l$ git br[0K[?25h[?25l$ git b[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gitr[0K[?25h[?25l$ git[0K[?25h[7G[?25l$ git r[0K[?25hm[0K[10G[?25l$ git rm d[0K[?25he[0Kv[0K[?25l
+[0K[?25hfatal: pathspec 'dev' did not match any files[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git rm dev[0K[?25h[12G[11G[10G[?25l$ git rm  dev[0K[11G[?25h[10G[?25l$ git rm   dev[0K[11G[?25h[10G[?25l$ git rm  dev[0K[9G[?25h[?25l$ git r  dev[0K[8G[?25h[?25l$ git   dev[0K[7G[?25h[?25l$ git  dev[0K[7G[?25h[?25l$ git dev[0K[7G[?25h[?25l$ git ev[0K[7G[?25h[?25l$ git v[0K[7G[?25h[?25l$ git[0K[7G[?25h[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[14G[?25l$ git branch -[0K[?25h[16G[?25l$ git branch - d[0K[?25he[0Kv[0K[?25l
+[0K[?25hfatal: '-' is not a valid branch name.[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git branch - dev[0K[?25h[18G[17G[16G[15G[?25l$ git branch -d dev[0K[16G[?25h[?25l
+[0K[?25hDeleted branch dev (was 5376da1).[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git branch -d dev[0K[?25h[?25l$ git branch -d de[0K[?25h[?25l$ git branch -d d[0K[?25h[?25l$ git branch -d[0K[17G[?25h[16G[?25l$ git branch -[0K[?25h[?25l$ git branch[0K[14G[?25h[13G[?25l
+[0K[?25h* [0;32mdev2[0m[0K[?25l
+  master[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git branch[0K[?25h -d dev[0K[?25l$ git branch -d de[0K[?25h[?25l$ git branch -d d[0K[?25h[?25l$ git branch -d[0K[17G[?25h[?25l$ git branch -d d[0K[?25he[0Kv[0K2[0K[?25l
+[0K[?25herror: Cannot delete branch 'dev2' checked out at 'C:/Users/user/Documents/packageTest'[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
+$[0K[3G[?25h[?25l$ git branch -d dev2[0K[?25h[20G[19G[18G[17G[16G[15G[14G[13G[12G[10G[9G[8G[6G[5G[6G[7G[?25l$ git ranch -d dev2[0K[7G[?25h[?25l$ git anch -d dev2[0K[7G[?25h[?25l$ git nch -d dev2[0K[7G[?25h[?25l$ git ch -d dev2[0K[7G[?25h[?25l$ git h -d dev2[0K[7G[?25h[?25l$ git  -d dev2[0K[7G[?25h[?25l$ git -d dev2[0K[7G[?25h[?25l$ git d dev2[0K[7G[?25h[?25l$ git  dev2[0K[7G[?25h[?25l$ git dev2[0K[7G[?25h[?25l$ git ev2[0K[7G[?25h[?25l$ git v2[0K[7G[?25h[?25l$ git 2[0K[7G[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hSwitched to branch 'master'[0K[?25l
+M       .Rproj.user/962F09C0/console06/B12E52F7[0K
+M       .Rproj.user/962F09C0/console06/INDEX001[0K
+M       tests/testthat/test-1.R[0K
+Your branch is up to date with 'origin/master'.[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git checkout master[0K[?25h[?25l$ git branch -d dev2[0K[?25h[?25l
+[0K[?25hDeleted branch dev2 (was 5376da1).[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
 $[0K[3G[?25h
