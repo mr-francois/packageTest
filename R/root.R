@@ -1,3 +1,12 @@
+#' doubles entries of data frame
+#'
+#' @param df a data frame
+#' @export
+double<-function(df){
+  purrr::map(df, ~.x*2)
+}
+
+
 #' Computes root of vector
 #'
 #' @param x a vector
@@ -8,10 +17,4 @@ root<-function(x,n=2){
 }
 
 
-#' doubles entries of data frame
-#'
-#' @param df a data frame
-#' @export
-double<-function(df){
-  purrr::map(df, ~.x*2)
-}
+
