@@ -358,4 +358,51 @@ Please commit your changes or stash them before you merge.[0K
 Aborting[0K
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git pull[0K[?25h[?25l$ git pul[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[4G[?25l$  h[0K[?25h[4G[?25l$   h[0K[5G[?25h[?25l$    h[0K[6G[?25h[5G[?25l$   h[0K[5G[?25h[6G[7G[8G[9G[8G[7G[6G[?25l$[0K[5G[?25h[4G[3G
+$[0K[3G[?25h[?25l$ git pull[0K[?25h[?25l$ git pul[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[4G[?25l$  h[0K[?25h[4G[?25l$   h[0K[5G[?25h[?25l$    h[0K[6G[?25h[5G[?25l$   h[0K[5G[?25h[6G[7G[8G[9G[8G[7G[6G[?25l$[0K[5G[?25h[4G[3G[?25l$ git push[0K[?25h[?25l
+[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
+[0K[2G[?25h[?25l [0;31m! [rejected]       [0m master -> master (non-fast-forward)[0K
+[0;31merror: failed to push some refs to 'https://github.com/mr-francois/packageTest'[0m[0K
+[0;33mhint: Updates were rejected because the tip of your current branch is behind[0m[0K
+[0;33mhint: its remote counterpart. Integrate the remote changes (e.g.[0m[0K
+[0;33mhint: 'git pull ...') before pushing again.[0m[0K
+[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25hl[0Kl[0K[?25l
+[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
+        .Rproj.user/962F09C0/console06/B12E52F7[0K
+Please commit your changes or stash them before you merge.[0K
+Aborting[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25h-[0Kh[0Ke[0Kp[0K[?25l$ git push --he[0K[?25hl[0Kp[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+[0K[?25h$[0K[3G[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25h[9G[8G[?25l$ git -f[0K[?25h[10G[?25l$ git -f p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hunknown option: -f[0K[?25l
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
+           <command> [<args>][0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git -f push[0K[?25h[13G[12G[11G[10G[9G[8G[7G[?25l$ git f push[0K[7G[?25h[?25l$ git  push[0K[7G[?25h[?25l$ git push[0K[7G[?25h[8G[9G[10G[11G[12G[?25l$ git push -[0K[?25hf[0K[?25l
+[0K[?25hEnumerating objects: 25, done.[0K[?25l
+Counting objects: 100% (25/25), done.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects:  71% (10/14)[0K[1G[?25hWriting objects: 100% (14/14), 3.28 KiB | 479.00 KiB/s, done.[0K[?25l
+Total 14 (delta 5), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   0% (0/5)[0K[1G[?25hremote: Resolving deltas: 100% (5/5), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
+ + e9d1e9b...54d4bb0 master -> master (forced update)[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
+[0K[?25herror: Your local changes to the following files would be overwritten by checkout:[0K[?25l
+        .Rproj.user/962F09C0/console06/B12E52F7[0K
+Please commit your changes or stash them before you switch branches.[0K
+Aborting[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
+$[0K[3G[?25h
