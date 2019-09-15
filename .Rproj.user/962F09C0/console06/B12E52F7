@@ -94,4 +94,27 @@ Changes not staged for commit:[0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin feature_branch_name[0K[?25h[?25l$ git push -u origin feature_branch_nam[0K[?25h[?25l$ git push -u origin feature_branch_na[0K[?25h[?25l$ git push -u origin feature_branch_n[0K[?25h[?25l$ git push -u origin feature_branch_[0K[?25h[?25l$ git push -u origin feature_branch[0K[?25h[?25l$ git push -u origin feature_branc[0K[?25h[?25l$ git push -u origin feature_bran[0K[?25h[?25l$ git push -u origin feature_bra[0K[?25h[?25l$ git push -u origin feature_br[0K[?25h[?25l$ git push -u origin feature_b[0K[?25h[?25l$ git push -u origin feature_[0K[?25h[?25l$ git push -u origin feature[0K[?25h[?25l$ git push -u origin featur[0K[?25h[?25l$ git push -u origin featu[0K[?25h[?25l$ git push -u origin feat[0K[?25h[?25l$ git push -u origin fea[0K[?25h[?25l$ git push -u origin fe[0K[?25h[?25l$ git push -u origin f[0K[?25h[?25l$ git push -u origin[0K[22G[?25h[?25l$ git push -u origin b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0KR[0KT[0K[?25l$ git push -u origin branchR[0K[?25h[?25l$ git push -u origin branch[0K[?25hT[0Ke[0Kr[0K[?25l$ git push -u origin branchTe[0K[?25hs[0Kt[0K2[0K[?25l
+[0K[?25hEnumerating objects: 15, done.[0K[?25l
+Counting objects:  33% (5/15)[0K[1G[?25hCounting objects: 100% (15/15), done.[0K[?25l
+Compressing objects: 100% (7/7), done.[0K
+[0K[?25hWriting objects: 100% (8/8), 2.33 KiB | 1.17 MiB/s, done.[0K[?25l
+Total 8 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'branchTest2' on GitHub by visiting:[0K
+remote:      https://github.com/mr-francois/packageTest/pull/new/branchTest2[0K
+remote:[0K
+[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
+ * [new branch]      branchTest2 -> branchTest2[0K
+[0K[?25hBranch 'branchTest2' set up to track remote branch 'branchTest2' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hu[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: Your local changes to the following files would be overwritten by checkout:[0K[?25l
+        .Rproj.user/962F09C0/console06/B12E52F7[0K
+Please commit your changes or stash them before you switch branches.[0K
+Aborting[0K
+[0K[?25h[?25l
+[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
 $[0K[3G[?25h
