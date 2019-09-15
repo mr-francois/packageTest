@@ -1,76 +1,10 @@
-[0m[0K]0;:/c/Users/user/Documents/packageTest[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hl[0Ko[0Kn[0Ke[0K[13G[?25l$ git clone https://github.com/mr-francois/packageTest[0K[?25h[?25l
-[0K[?25hCloning into 'packageTest'...[0K[?25l
-[0K[?25hremote: Enumerating objects: 3, done.[0K[?25l
-remote: Counting objects: 100% (3/3), done.[0K
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
-[0K[?25h[?25lUnpacking objects:  33% (1/3)[0K[1G[?25h[?25lUnpacking objects:  66% (2/3)[0K[1G[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[?25l
+[0K[?25herror: unable to create file .Rproj.user/962F09C0/console06/B12E52F7: File exists[0K[?25l
+[0K[?25hSwitched to branch 'master'[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-]0;:/c/Users/user/Documents/packageTest[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ d[0K[?25ho[0Kc[0Ku[0Km[0Ke[0Kn[0Kt[0K[?25l$ documen[0K[?25h[?25l$ docume[0K[?25h[?25l$ docum[0K[?25h[?25l$ docu[0K[?25h[?25l$ doc[0K[?25h[?25l$[0K[3G[?25h[?25l$ git pull --rebase origin master[0K
-[0K[?25herror: cannot pull with rebase: You have unstaged changes.[0K[?25l
-[0K[?25herror: please commit or stash them.[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$ git push origin master[0K[?25h[?25l
-[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
- [0;31m! [rejected]       [0m master -> master (non-fast-forward)[0K
-[0;31merror: failed to push some refs to 'https://github.com/mr-francois/packageTest'[0m[0K
-[0K[?25h[0;33mhint: Updates were rejected because the tip of your current branch is behind[0m[0K[?25l
-[0;33mhint: its remote counterpart. Integrate the remote changes (e.g.[0m[0K
-[0;33mhint: 'git pull ...') before pushing again.[0m[0K
-[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git fetch origin[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git merge origin branch[0K[?25h[?25l
-[0K[?25hmerge: origin - not something we can merge[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git pull origin branch[0K[?25h[?25l
-[0K[?25hfatal: couldn't find remote ref branch[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hReinitialized existing Git repository in C:/Users/user/Documents/packageTest/.git/[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-]0;:/c/Users/user/Documents/packageTest[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ pw[0K[?25hd[0K[?25l
-/c/Users/user/Documents/packageTest[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push https://git.... --force[0K
-[0K[?25hfatal: unable to access 'https://git..../': Could not resolve host: git....[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ h[0K[?25https://github.com/mr-francois/packageTest.git[0K[48G[47G[46G[45G[44G[43G[42G[41G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[13G[12G[11G[10G[9G[7G[6G[5G[3G[?25l$   https://github.com/mr-francois/packageTest.git[0K[5G[?25h[4G[3G[?25l$ g  https://github.com/mr-francois/packageTest.git[0K[4G[?25h[?25l$ gi  https://github.com/mr-francois/packageTest.git[0K[5G[?25h[?25l$ git  https://github.com/mr-francois/packageTest.git[0K[6G[?25h[?25l$ git   https://github.com/mr-francois/packageTest.git[0K[7G[?25h[?25l$ git p  https://github.com/mr-francois/packageTest.git[0K[8G[?25h[?25l$ git pu  https://github.com/mr-francois/packageTest.git[0K[9G[?25h[?25l$ git pus  https://github.com/mr-francois/packageTest.git[0K[10G[?25h[?25l$ git push  https://github.com/mr-francois/packageTest.git[0K[11G[?25h[12G[13G[14G[15G[16G[17G[18G[19G[20G[21G[22G[24G[25G[26G[28G[29G[30G[31G[32G[33G[34G[35G[36G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[?25l$ git push  https://github.com/mr-francois/packageTest.git -[0K[?25h-[0K[63G[62G[?25l$ git push  https://github.com/mr-francois/packageTest.git --f[0K[?25ho[0Kr[0Kc[0Ke[0K[?25l
-[0K[?25hEnumerating objects: 65, done.[0K[?25l
-Counting objects:   1% (1/65)[0K[1G[?25h[?25lCounting objects:   3% (2/65)[0K[1G[?25h[?25lCounting objects:  36% (24/65)[0K[1G[?25h[?25lCounting objects:  40% (26/65)[0K[1G[?25h[?25lCounting objects:  41% (27/65)[0K[1G[?25h[?25lCounting objects:  49% (32/65)[0K[1G[?25h[?25lCounting objects:  78% (51/65)[0K[1G[?25h[?25lCounting objects:  98% (64/65)[0K[1G[?25hCounting objects: 100% (65/65), done.[0K[?25l
-Compressing objects:   1% (1/52)[0K[1G[?25hCompressing objects: 100% (52/52), done.[0K[?25l
-Writing objects: 100% (65/65), 6.03 KiB | 686.00 KiB/s, done.[0K
-[0K[?25hTotal 65 (delta 10), reused 0 (delta 0)[0K[?25l
-[0K[?25hremote: Resolving deltas: 100% (10/10), done.[0K[?25l
-[0K[?25hTo https://github.com/mr-francois/packageTest.git[0K[?25l
- + fec90d9...32f3a63 master -> master (forced update)[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-]0;:/c/Users/user/Documents/packageTest[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$ git[0K[7G[?25h[8G[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[?25l
-[0K[?25horigin[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote[0K[?25h[?25l$ git remot[0K[?25h[?25l$ git remo[0K[?25h[?25l$ git rem[0K[?25h[?25l$ git re[0K[?25h[?25l$ git r[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+$[0K[3G[?25h[?25l$ git checkout -f  master[0K[?25h[?25l$ git checkout -f  maste[0K[?25h[?25l$ git checkout -f  mast[0K[?25h[?25l$ git checkout -f  mas[0K[?25h[?25l$ git checkout -f  ma[0K[?25h[?25l$ git checkout -f  m[0K[?25h[?25l$ git checkout -f[0K[20G[?25h[19G[18G[?25l$ git checkout -[0K[?25h[?25l$ git checkout[0K[16G[?25h[15G[?25l$ git checkou[0K[?25h[?25l$ git checko[0K[?25h[?25l$ git check[0K[?25h[?25l$ git chec[0K[?25h[?25l$ git che[0K[?25h[?25l$ git ch[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gits[0K[?25h[?25l$ git[0K[?25h[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up to date with 'origin/master'.[0K
 [0K
@@ -79,330 +13,22 @@ Changes not staged for commit:[0K
   (use "git checkout -- <file>..." to discard changes in working directory)[0K
 [0K
         [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0m[0K
-        [0;31mmodified:   tests/testthat/test-1.R[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l$ git statu[0K[?25h[?25l$ git stat[0K[?25h[?25l$ git sta[0K[?25h[?25l$ git st[0K[?25h[?25l$ git s[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git d[0K[?25hi[0Kf[0Kf[0K[?25l
-[0K[?25h[0;1mdiff --git a/.Rproj.user/962F09C0/console06/B12E52F7 b/.Rproj.user/962F09C0/console06/B12E[0K5[?25l
-2F7[0m[0K
-[0;1mindex 5fc6772..9fd0cdb 100644[0m[0K
-[0;1m--- a/.Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-[0;1m+++ b/.Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-[0;36m@@ -64,4 +64,26 @@[0m Writing objects: 100% (65/65), 6.03 KiB | 686.00 KiB/s, done.[0K
-  + fec90d9...32f3a63 master -> master (forced update)[0K
-[0K
- [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-[0;31m-$[0m[0K
-\ No newline at end of file[0K
-[0;32m+0;:/c/Users/user/Documents/packageTest[0;30;42m^G[0;31;47m^M[0m[0K
-[0;32m+user@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0;31;47m^M[0m[0K
-[0;32m+$ git[0;30;42m^M[0;32m$ git remote[0;31;47m^M[0m[0K
-[0;32m+origin[0;31;47m^M[0m[0K
-[0;32m+[0;31;47m^M[0m[0K
-[0;32m+user@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0;31;47m^M[0m[0K
-[0;32m+$[0;30;42m^M[0;32m$ git remote[0;30;42m^M[0;32m$ git remot[0;30;42m^M[0;32m$ git remo[0;30;42m^M[0;32m$ git rem[0;30;42m^M[0;32m$ git re[0;30;42m^M[0;32m$ git r[0;30;42m^M[0;32m$ git[0;30;42m^M[0;32m$ git stat[0Ku
-s[0;31;47m^M[0m[0K
-[0;32m+On branch master[0;31;47m^M[0m[0K
-[0;32m+Your branch is up to date with 'origin/master'.[0;31;47m^M[0m[0K
-[0;32m+[0;31;47m^M[0m[0K
-[0;32m+Changes not staged for commit:[0;31;47m^M[0m[0K
-[0;32m+  (use "git add <file>..." to update what will be committed)[0;31;47m^M[0m[0K
-[0;32m+  (use "git checkout -- <file>..." to discard changes in working directory)[0;31;47m^M[0m[0K
-[0;32m+[0;31;47m^M[0m[0K
-[0;32m+        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0;31;47m^M[0m[0K
-[0;32m+        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0;31;47m^M[0m[0K
-[0;32m+        [0;31mmodified:   tests/testthat/test-1.R[0;31;47m^M[0m[0K
-[0;32m+[0;31;47m^M[0m[0K
-[0;32m+no changes added to commit (use "git add" and/or "git commit -a")[0;31;47m^M[0m[0K
-[0;32m+[0;31;47m^M[0m[0K
-:[0K[?25h[?25l[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ p[0K[?25hd[0Kf[0K[?25l$ pd[0K[?25hd[0K[?25l$ pd[0K[?25h[?25l$ p[0K[?25hw[0Kd[0K[?25l
-/c/Users/user/Documents/packageTest[0K
+$[0K[3G[?25h[?25l$ git branch -d the_local_branch[0K[?25h[?25l$ git branch -d the_local_branc[0K[?25h[?25l$ git branch -d the_local_bran[0K[?25h[?25l$ git branch -d the_local_bra[0K[?25h[?25l$ git branch -d the_local_br[0K[?25h[?25l$ git branch -d the_local_b[0K[?25h[?25l$ git branch -d the_local_[0K[?25h[?25l$ git branch -d the_local[0K[?25h[?25l$ git branch -d the_loca[0K[?25h[?25l$ git branch -d the_loc[0K[?25h[?25l$ git branch -d the_lo[0K[?25h[?25l$ git branch -d the_l[0K[?25h[?25l$ git branch -d the_[0K[?25h[?25l$ git branch -d the[0K[?25h[?25l$ git branch -d th[0K[?25h[?25l$ git branch -d t[0K[?25h[?25l$ git branch -d[0K[17G[?25h[16G[17G[?25l$ git branch -d n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
+[0K[?25hDeleted branch newBranch (was 386f3c9).[0K[?25l
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[?25l
-[0K[?25horigin[0K[?25l
+$[0K[3G[?25h[?25l$ git branch -d newBranch[0K[?25h2[0K[?25l
+[0K[?25hDeleted branch newBranch2 (was 386f3c9).[0K[?25l
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25h* [0;32mmaster[0m[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git branch[0K[?25h[?25l
-[0K[?25h* [0;32mmaster[0m[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout -b iss53[0K[?25h[?25l$ git checkout -b iss5[0K[?25h[?25l$ git checkout -b iss[0K[?25h[?25l$ git checkout -b is[0K[?25h[?25l$ git checkout -b i[0K[?25h[?25l$ git checkout -b[0K[19G[?25h[18G[19G[?25l$ git checkout -b d[0K[?25he[0Kv[0K[?25l
-[0K[?25hSwitched to a new branch 'dev'[0K[?25l
-[0K[?25hM       .Rproj.user/962F09C0/console06/B12E52F7[0K[?25l
-M       .Rproj.user/962F09C0/console06/INDEX001[0K
-M       tests/testthat/test-1.R[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout -b dev[0K[?25h[?25l$ git checkout -b de[0K[?25h[?25l$ git checkout -b d[0K[?25h[?25l$ git checkout -b[0K[19G[?25h[?25l$ git checkout -b d[0K[?25he[0Kv[0K2[0K[?25l
-[0K[?25hSwitched to a new branch 'dev2'[0K[?25l
-M       .Rproj.user/962F09C0/console06/B12E52F7[0K
-M       .Rproj.user/962F09C0/console06/INDEX001[0K
-M       tests/testthat/test-1.R[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kb[0K[?25l$ git bra[0K[?25hn[0Kc[0Kj[0K[?25l
-[0K[?25hgit: 'brancj' is not a git command. See 'git --help'.[0K[?25l
-[0K
-The most similar command is[0K
-        branch[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git brancj[0K[?25h[?25l$ git branc[0K[?25hh[0K[?25l
-[0K[?25h  dev[0K[?25l
-* [0;32mdev2[0m[0K
-  master[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git branch[0K[?25h[?25l$ git branc[0K[?25h[?25l$ git bran[0K[?25h[?25l$ git bra[0K[?25h[?25l$ git br[0K[?25h[?25l$ git b[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gitr[0K[?25h[?25l$ git[0K[?25h[7G[?25l$ git r[0K[?25hm[0K[10G[?25l$ git rm d[0K[?25he[0Kv[0K[?25l
-[0K[?25hfatal: pathspec 'dev' did not match any files[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git rm dev[0K[?25h[12G[11G[10G[?25l$ git rm  dev[0K[11G[?25h[10G[?25l$ git rm   dev[0K[11G[?25h[10G[?25l$ git rm  dev[0K[9G[?25h[?25l$ git r  dev[0K[8G[?25h[?25l$ git   dev[0K[7G[?25h[?25l$ git  dev[0K[7G[?25h[?25l$ git dev[0K[7G[?25h[?25l$ git ev[0K[7G[?25h[?25l$ git v[0K[7G[?25h[?25l$ git[0K[7G[?25h[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[14G[?25l$ git branch -[0K[?25h[16G[?25l$ git branch - d[0K[?25he[0Kv[0K[?25l
-[0K[?25hfatal: '-' is not a valid branch name.[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git branch - dev[0K[?25h[18G[17G[16G[15G[?25l$ git branch -d dev[0K[16G[?25h[?25l
-[0K[?25hDeleted branch dev (was 5376da1).[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -d dev[0K[?25h[?25l$ git branch -d de[0K[?25h[?25l$ git branch -d d[0K[?25h[?25l$ git branch -d[0K[17G[?25h[16G[?25l$ git branch -[0K[?25h[?25l$ git branch[0K[14G[?25h[13G[?25l
-[0K[?25h* [0;32mdev2[0m[0K[?25l
-  master[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git branch[0K[?25h -d dev[0K[?25l$ git branch -d de[0K[?25h[?25l$ git branch -d d[0K[?25h[?25l$ git branch -d[0K[17G[?25h[?25l$ git branch -d d[0K[?25he[0Kv[0K2[0K[?25l
-[0K[?25herror: Cannot delete branch 'dev2' checked out at 'C:/Users/user/Documents/packageTest'[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (dev2)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -d dev2[0K[?25h[20G[19G[18G[17G[16G[15G[14G[13G[12G[10G[9G[8G[6G[5G[6G[7G[?25l$ git ranch -d dev2[0K[7G[?25h[?25l$ git anch -d dev2[0K[7G[?25h[?25l$ git nch -d dev2[0K[7G[?25h[?25l$ git ch -d dev2[0K[7G[?25h[?25l$ git h -d dev2[0K[7G[?25h[?25l$ git  -d dev2[0K[7G[?25h[?25l$ git -d dev2[0K[7G[?25h[?25l$ git d dev2[0K[7G[?25h[?25l$ git  dev2[0K[7G[?25h[?25l$ git dev2[0K[7G[?25h[?25l$ git ev2[0K[7G[?25h[?25l$ git v2[0K[7G[?25h[?25l$ git 2[0K[7G[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25hSwitched to branch 'master'[0K[?25l
-M       .Rproj.user/962F09C0/console06/B12E52F7[0K
-M       .Rproj.user/962F09C0/console06/INDEX001[0K
-M       tests/testthat/test-1.R[0K
-Your branch is up to date with 'origin/master'.[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout master[0K[?25h[?25l$ git branch -d dev2[0K[?25h[?25l
-[0K[?25hDeleted branch dev2 (was 5376da1).[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25hSwitched to branch 'master'[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout -f master[0K[?25h[?25l$ git checkout -f maste[0K[?25h[?25l$ git checkout -f mast[0K[?25h[?25l$ git checkout -f mas[0K[?25h[?25l$ git checkout -f ma[0K[?25h[?25l$ git checkout -f m[0K[?25h[?25l$ git checkout -f[0K[19G[?25h[18G[?25l$ git checkout -[0K[?25h[?25l$ git checkout[0K[16G[?25h[15G[?25l$ git checkou[0K[?25h[?25l$ git checko[0K[?25h[?25l$ git check[0K[?25h[?25l$ git chec[0K[?25h[?25l$ git che[0K[?25h[?25l$ git ch[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[6G[7G[?25l$ git m[0K[?25he[0Kr[0Kg[0Ke[0K[13G[?25l$ git merge d[0K[?25he[0Kv[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-        .Rproj.user/962F09C0/sources/prop/906B5AED[0K
-Please commit your changes or stash them before you merge.[0K
-Aborting[0K
-Updating e51b04d..3db3066[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git merge dev[0K[?25h[15G[13G[12G[11G[10G[9G[8G[7G[6G[5G[4G[5G[6G[?25l$ git  merge dev[0K[7G[?25h[?25l$ git - merge dev[0K[8G[?25h[?25l$ git -f merge dev[0K[9G[?25h[?25l$ git -f  merge dev[0K[10G[?25h[?25l
-[0K[?25hunknown option: -f[0K[?25l
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare][0K
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
-           <command> [<args>][0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git -f  merge dev[0K[?25h[19G[18G[17G[16G[15G[14G[13G[12G[11G[9G[8G[7G[8G[?25l$ git --f  merge dev[0K[9G[?25h[10G[?25l$ git --  merge dev[0K[9G[?25h[?25l$ git -  merge dev[0K[8G[?25h[?25l$ git   merge dev[0K[7G[?25h[?25l$ git  merge dev[0K[6G[?25h[?25l$ git merge dev[0K[6G[?25h[7G[8G[9G[10G[11G[12G[?25l$ git merge  dev[0K[13G[?25h[?25l$ git merge - dev[0K[14G[?25h[?25l$ git merge -f dev[0K[15G[?25h[?25l$ git merge -f  dev[0K[16G[?25h[?25l
-[0K[?25herror: unknown switch `f'[0K[?25l
-usage: git merge [<options>] [<commit>...][0K
-   or: git merge --abort[0K
-   or: git merge --continue[0K
-[0K
-    -n                    do not show a diffstat at the end of the merge[0K
-    --stat                show a diffstat at the end of the merge[0K
-    --summary             (synonym to --stat)[0K
-    --log[=<n>]           add (at most <n>) entries from shortlog to merge commit message[0K
-    --squash              create a single commit instead of doing a merge[0K
-    --commit              perform a commit if the merge succeeds (default)[0K
-    -e, --edit            edit message before committing[0K
-    --cleanup <mode>      how to strip spaces and #comments from message[0K
-    --ff                  allow fast-forward (default)[0K
-    --ff-only             abort if fast-forward is not possible[0K
-    --rerere-autoupdate   update the index with reused conflict resolution if possible[0K
-    --verify-signatures   verify that the named commit has a valid GPG signature[0K
-    -s, --strategy <strategy>[0K
-                          merge strategy to use[0K
-    -X, --strategy-option <option=value>[0K
-                          option for selected merge strategy[0K
-    -m, --message <message>[0K
-                          merge commit message (for a non-fast-forward merge)[0K
-    -F, --file <path>     read message from file[0K
-    -v, --verbose         be more verbose[0K
-    -q, --quiet           be more quiet[0K
-    --abort               abort the current in-progress merge[0K
-    --continue            continue the current in-progress merge[0K
-    --allow-unrelated-histories[0K
-                          allow merging unrelated histories[0K
-    --progress            force progress reporting[0K
-    -S, --gpg-sign[=<key-id>][0K
-                          GPG sign commit[0K
-    --overwrite-ignore    update ignored files (default)[0K
-    --signoff             add Signed-off-by:[0K
-    --verify              verify commit-msg hook[0K
-[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is behind 'origin/master' by 3 commits, and can be fast-forwarded.[0K
-  (use "git pull" to update your local branch)[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/sources/prop/906B5AED[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-        .Rproj.user/962F09C0/console06/INDEX001[0K
-        .Rproj.user/962F09C0/sources/prop/906B5AED[0K
-Please commit your changes or stash them before you merge.[0K
-Aborting[0K
-Updating e51b04d..e9d1e9b[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-]0;:/c/Users/user/Documents/packageTest[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ gi[0K[?25ht[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25herror: pathspec 'newBranch' did not match any file(s) known to git[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout newBranch[0K[?25h[24G[23G[22G[21G[20G[19G[18G[17G[16G[14G[15G[?25l$ git checkout  newBranch[0K[16G[?25h[?25l$ git checkout - newBranch[0K[17G[?25h[?25l$ git checkout -b newBranch[0K[18G[?25h[?25l$ git checkout -b  newBranch[0K[19G[?25h[?25l
-[0K[?25hSwitched to a new branch 'newBranch'[0K[?25l
-M       .Rproj.user/962F09C0/console06/B12E52F7[0K
-M       .Rproj.user/962F09C0/console06/INDEX001[0K
-M       .Rproj.user/962F09C0/sources/prop/906B5AED[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (newBranch)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch newBranch[0K[?25l
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/sources/prop/906B5AED[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (newBranch)[0m[0K
-$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l$ git checkout -b  newBranch[0K[?25h[?25l$ git status[0K[?25h[12G[?25l$ git statucs[0K[13G[?25h[?25l$ git statuchs[0K[14G[?25h[?25l$ git statuches[0K[15G[?25h[?25l$ git statuchecs[0K[16G[?25h[?25l$ git statuchecks[0K[17G[?25h[?25l$ git statuchecs[0K[16G[?25h[?25l$ git statuches[0K[15G[?25h[?25l$ git statuchs[0K[14G[?25h[?25l$ git statucs[0K[13G[?25h[?25l$ git status[0K[12G[?25h[?25l$ git stats[0K[11G[?25h[?25l$ git sts[0K[9G[?25h[?25l$ git ss[0K[8G[?25h[?25l$ git s[0K[7G[?25h[?25l$ gits[0K[6G[?25h[?25l$ git s[0K[7G[?25h[?25l
-[0K[?25hgit: 's' is not a git command. See 'git --help'.[0K[?25l
-[0K
-The most similar commands are[0K
-        show[0K
-        status[0K
-        lfs[0K
-        svn[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (newBranch)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25hSwitched to branch 'master'[0K[?25l
-M       .Rproj.user/962F09C0/console06/B12E52F7[0K
-M       .Rproj.user/962F09C0/console06/INDEX001[0K
-M       .Rproj.user/962F09C0/sources/prop/906B5AED[0K
-Your branch is behind 'origin/master' by 3 commits, and can be fast-forwarded.[0K
-  (use "git pull" to update your local branch)[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$ #[0K[?25hg[0Ki[0Kt[0K[8G[?25l$ #git m[0K[?25he[0Kr[0Kge[0K[12G[11G[10G[9G[7G[6G[5G[4G[3G[?25l$ git merge[0K[3G[?25h[4G[5G[6G[7G[8G[9G[10G[11G[12G[13G[?25l$ git merge n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25hUpdating e51b04d..386f3c9[0K[?25l
-Fast-forward[0K
-[0K[?25h R/root.R | 4 [0;32m++[0;31m--[0m[0K[?25l
- 1 file changed, 2 insertions(+), 2 deletions(-)[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
-[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
- [0;31m! [rejected]       [0m master -> master (non-fast-forward)[0K
-[0;31merror: failed to push some refs to 'https://github.com/mr-francois/packageTest'[0m[0K
-[0;33mhint: Updates were rejected because the tip of your current branch is behind[0m[0K
-[0;33mhint: its remote counterpart. Integrate the remote changes (e.g.[0m[0K
-[0;33mhint: 'git pull ...') before pushing again.[0m[0K
-[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-        .Rproj.user/962F09C0/console06/INDEX001[0K
-        .Rproj.user/962F09C0/sources/prop/906B5AED[0K
-Please commit your changes or stash them before you merge.[0K
-Aborting[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git pull[0K[?25h[?25l$ git pul[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[4G[?25l$  h[0K[?25h[4G[?25l$   h[0K[5G[?25h[?25l$    h[0K[6G[?25h[5G[?25l$   h[0K[5G[?25h[6G[7G[8G[9G[8G[7G[6G[?25l$[0K[5G[?25h[4G[3G[?25l$ git push[0K[?25h[?25l
-[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
-[0K[2G[?25h[?25l [0;31m! [rejected]       [0m master -> master (non-fast-forward)[0K
-[0;31merror: failed to push some refs to 'https://github.com/mr-francois/packageTest'[0m[0K
-[0;33mhint: Updates were rejected because the tip of your current branch is behind[0m[0K
-[0;33mhint: its remote counterpart. Integrate the remote changes (e.g.[0m[0K
-[0;33mhint: 'git pull ...') before pushing again.[0m[0K
-[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25hl[0Kl[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-Please commit your changes or stash them before you merge.[0K
-Aborting[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25h-[0Kh[0Ke[0Kp[0K[?25l$ git push --he[0K[?25hl[0Kp[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-[0K[?25h$[0K[3G[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25h[9G[8G[?25l$ git -f[0K[?25h[10G[?25l$ git -f p[0K[?25hu[0Ks[0Kh[0K[?25l
-[0K[?25hunknown option: -f[0K[?25l
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare][0K
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
-           <command> [<args>][0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git -f push[0K[?25h[13G[12G[11G[10G[9G[8G[7G[?25l$ git f push[0K[7G[?25h[?25l$ git  push[0K[7G[?25h[?25l$ git push[0K[7G[?25h[8G[9G[10G[11G[12G[?25l$ git push -[0K[?25hf[0K[?25l
-[0K[?25hEnumerating objects: 25, done.[0K[?25l
-Counting objects: 100% (25/25), done.[0K
-Compressing objects: 100% (12/12), done.[0K
-Writing objects:  71% (10/14)[0K[1G[?25hWriting objects: 100% (14/14), 3.28 KiB | 479.00 KiB/s, done.[0K[?25l
-Total 14 (delta 5), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:   0% (0/5)[0K[1G[?25hremote: Resolving deltas: 100% (5/5), completed with 4 local objects.[0K[?25l
-[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
- + e9d1e9b...54d4bb0 master -> master (forced update)[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by checkout:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-Please commit your changes or stash them before you switch branches.[0K
-Aborting[0K
+$[0K[3G[?25h[?25l$ git branch -d newBranch2[0K[?25h[?25l$ git branch -d newBranch[0K[?25h[?25l$ git branch -d newBranc[0K[?25h[?25l$ git branch -d newBran[0K[?25h[?25l$ git branch -d newBra[0K[?25h[?25l$ git branch -d newBr[0K[?25h[?25l$ git branch -d newB[0K[?25h[?25l$ git branch -d new[0K[?25h[?25l$ git branch -d ne[0K[?25h[?25l$ git branch -d n[0K[?25h[?25l$ git branch -d[0K[17G[?25h[?25l$ git branch -d d[0K[?25he[0Kv[0K[?25l
+[0K[?25hwarning: deleting branch 'dev' that has been merged to[0K[?25l
+         'refs/remotes/origin/dev', but not yet merged to HEAD.[0K
+[0K[?25hDeleted branch dev (was 3db3066).[0K[?25l
 [0K[?25h[?25l
 [0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
 $[0K[3G[?25h
