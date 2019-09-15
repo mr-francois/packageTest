@@ -1,120 +1,0 @@
-[?25l
-[0K[?25herror: unable to create file .Rproj.user/962F09C0/console06/B12E52F7: File exists[0K[?25l
-[0K[?25hSwitched to branch 'master'[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git checkout -f  master[0K[?25h[?25l$ git checkout -f  maste[0K[?25h[?25l$ git checkout -f  mast[0K[?25h[?25l$ git checkout -f  mas[0K[?25h[?25l$ git checkout -f  ma[0K[?25h[?25l$ git checkout -f  m[0K[?25h[?25l$ git checkout -f[0K[20G[?25h[19G[18G[?25l$ git checkout -[0K[?25h[?25l$ git checkout[0K[16G[?25h[15G[?25l$ git checkou[0K[?25h[?25l$ git checko[0K[?25h[?25l$ git check[0K[?25h[?25l$ git chec[0K[?25h[?25l$ git che[0K[?25h[?25l$ git ch[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gits[0K[?25h[?25l$ git[0K[?25h[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -d the_local_branch[0K[?25h[?25l$ git branch -d the_local_branc[0K[?25h[?25l$ git branch -d the_local_bran[0K[?25h[?25l$ git branch -d the_local_bra[0K[?25h[?25l$ git branch -d the_local_br[0K[?25h[?25l$ git branch -d the_local_b[0K[?25h[?25l$ git branch -d the_local_[0K[?25h[?25l$ git branch -d the_local[0K[?25h[?25l$ git branch -d the_loca[0K[?25h[?25l$ git branch -d the_loc[0K[?25h[?25l$ git branch -d the_lo[0K[?25h[?25l$ git branch -d the_l[0K[?25h[?25l$ git branch -d the_[0K[?25h[?25l$ git branch -d the[0K[?25h[?25l$ git branch -d th[0K[?25h[?25l$ git branch -d t[0K[?25h[?25l$ git branch -d[0K[17G[?25h[16G[17G[?25l$ git branch -d n[0K[?25he[0Kw[0KB[0Kr[0Ka[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25hDeleted branch newBranch (was 386f3c9).[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -d newBranch[0K[?25h2[0K[?25l
-[0K[?25hDeleted branch newBranch2 (was 386f3c9).[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -d newBranch2[0K[?25h[?25l$ git branch -d newBranch[0K[?25h[?25l$ git branch -d newBranc[0K[?25h[?25l$ git branch -d newBran[0K[?25h[?25l$ git branch -d newBra[0K[?25h[?25l$ git branch -d newBr[0K[?25h[?25l$ git branch -d newB[0K[?25h[?25l$ git branch -d new[0K[?25h[?25l$ git branch -d ne[0K[?25h[?25l$ git branch -d n[0K[?25h[?25l$ git branch -d[0K[17G[?25h[?25l$ git branch -d d[0K[?25he[0Kv[0K[?25l
-[0K[?25hwarning: deleting branch 'dev' that has been merged to[0K[?25l
-         'refs/remotes/origin/dev', but not yet merged to HEAD.[0K
-[0K[?25hDeleted branch dev (was 3db3066).[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0K[14G[?25l$ git branch -[0K[?25hb[0K[17G[?25l$ git branch -b B[0K[?25h[?25l$ git branch -b[0K[17G[?25h[?25l$ git branch -b b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0KT[0Ke[0Ks[0Kt[0K2[0K[?25l
-[0K[?25herror: unknown switch `b'[0K[?25l
-usage: git branch [<options>] [-r | -a] [--merged | --no-merged][0K
-   or: git branch [<options>] [-l] [-f] <branch-name> [<start-point>][0K
-   or: git branch [<options>] [-r] (-d | -D) <branch-name>...[0K
-   or: git branch [<options>] (-m | -M) [<old-branch>] <new-branch>[0K
-   or: git branch [<options>] (-c | -C) [<old-branch>] <new-branch>[0K
-   or: git branch [<options>] [-r | -a] [--points-at][0K
-   or: git branch [<options>] [-r | -a] [--format][0K
-[0K
-Generic options[0K
-    -v, --verbose         show hash and subject, give twice for upstream branch[0K
-    -q, --quiet           suppress informational messages[0K
-    -t, --track           set up tracking mode (see git-pull(1))[0K
-    -u, --set-upstream-to <upstream>[0K
-                          change the upstream info[0K
-    --unset-upstream      Unset the upstream info[0K
-    --color[=<when>]      use colored output[0K
-    -r, --remotes         act on remote-tracking branches[0K
-    --contains <commit>   print only branches that contain the commit[0K
-    --no-contains <commit>[0K
-                          print only branches that don't contain the commit[0K
-    --abbrev[=<n>]        use <n> digits to display SHA-1s[0K
-[0K
-Specific git-branch actions:[0K
-    -a, --all             list both remote-tracking and local branches[0K
-    -d, --delete          delete fully merged branch[0K
-    -D                    delete branch (even if not merged)[0K
-    -m, --move            move/rename a branch and its reflog[0K
-    -M                    move/rename a branch, even if target exists[0K
-    -c, --copy            copy a branch and its reflog[0K
-    -C                    copy a branch, even if target exists[0K
-    -l, --list            list branch names[0K
-    --show-current        show current branch name[0K
-    --create-reflog       create the branch's reflog[0K
-    --edit-description    edit the description for the branch[0K
-    -f, --force           force creation, move/rename, deletion[0K
-    --merged <commit>     print only branches that are merged[0K
-    --no-merged <commit>  print only branches that are not merged[0K
-    --column[=<style>]    list branches in columns[0K
-    --sort <key>          field name to sort on[0K
-    --points-at <object>  print only branches of the object[0K
-    -i, --ignore-case     sorting and filtering are case insensitive[0K
-    --format <format>     format to use for the output[0K
-[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git branch -b branchTest2[0K[?25h[27G[26G[25G[24G[23G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[?25l$ git branh -b branchTest2[0K[11G[?25h[?25l$ git brah -b branchTest2[0K[10G[?25h[?25l$ git brh -b branchTest2[0K[9G[?25h[?25l$ git bh -b branchTest2[0K[8G[?25h[?25l$ git h -b branchTest2[0K[7G[?25h[?25l$ git  -b branchTest2[0K[7G[?25h[?25l$ git -b branchTest2[0K[7G[?25h[?25l$ git  -b branchTest2[0K[8G[?25h[7G[6G[?25l$ git   -b branchTest2[0K[7G[?25h[?25l$ git c  -b branchTest2[0K[8G[?25h[?25l$ git ch  -b branchTest2[0K[9G[?25h[?25l$ git che  -b branchTest2[0K[10G[?25h[?25l$ git chec  -b branchTest2[0K[11G[?25h[?25l$ git checl  -b branchTest2[0K[12G[?25h[?25l$ git chec  -b branchTest2[0K[11G[?25h[?25l$ git check  -b branchTest2[0K[12G[?25h[?25l$ git checko  -b branchTest2[0K[13G[?25h[?25l$ git checkou  -b branchTest2[0K[14G[?25h[?25l$ git checkout  -b branchTest2[0K[15G[?25h[?25l$ git checkout -b branchTest2[0K[15G[?25h[?25l
-[0K[?25hSwitched to a new branch 'branchTest2'[0K[?25l
-M       .Rproj.user/962F09C0/console06/B12E52F7[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch branchTest2[0K[?25l
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/962F09C0/console06/B12E52F7[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
-$[0K[3G[?25h[?25l$ git push -u origin feature_branch_name[0K[?25h[?25l$ git push -u origin feature_branch_nam[0K[?25h[?25l$ git push -u origin feature_branch_na[0K[?25h[?25l$ git push -u origin feature_branch_n[0K[?25h[?25l$ git push -u origin feature_branch_[0K[?25h[?25l$ git push -u origin feature_branch[0K[?25h[?25l$ git push -u origin feature_branc[0K[?25h[?25l$ git push -u origin feature_bran[0K[?25h[?25l$ git push -u origin feature_bra[0K[?25h[?25l$ git push -u origin feature_br[0K[?25h[?25l$ git push -u origin feature_b[0K[?25h[?25l$ git push -u origin feature_[0K[?25h[?25l$ git push -u origin feature[0K[?25h[?25l$ git push -u origin featur[0K[?25h[?25l$ git push -u origin featu[0K[?25h[?25l$ git push -u origin feat[0K[?25h[?25l$ git push -u origin fea[0K[?25h[?25l$ git push -u origin fe[0K[?25h[?25l$ git push -u origin f[0K[?25h[?25l$ git push -u origin[0K[22G[?25h[?25l$ git push -u origin b[0K[?25hr[0Ka[0Kn[0Kc[0Kh[0KR[0KT[0K[?25l$ git push -u origin branchR[0K[?25h[?25l$ git push -u origin branch[0K[?25hT[0Ke[0Kr[0K[?25l$ git push -u origin branchTe[0K[?25hs[0Kt[0K2[0K[?25l
-[0K[?25hEnumerating objects: 15, done.[0K[?25l
-Counting objects:  33% (5/15)[0K[1G[?25hCounting objects: 100% (15/15), done.[0K[?25l
-Compressing objects: 100% (7/7), done.[0K
-[0K[?25hWriting objects: 100% (8/8), 2.33 KiB | 1.17 MiB/s, done.[0K[?25l
-Total 8 (delta 2), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: Create a pull request for 'branchTest2' on GitHub by visiting:[0K
-remote:      https://github.com/mr-francois/packageTest/pull/new/branchTest2[0K
-remote:[0K
-[0K[?25hTo https://github.com/mr-francois/packageTest[0K[?25l
- * [new branch]      branchTest2 -> branchTest2[0K
-[0K[?25hBranch 'branchTest2' set up to track remote branch 'branchTest2' from 'origin'.[0K[?25l
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hu[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: Your local changes to the following files would be overwritten by checkout:[0K[?25l
-        .Rproj.user/962F09C0/console06/B12E52F7[0K
-Please commit your changes or stash them before you switch branches.[0K
-Aborting[0K
-[0K[?25h[?25l
-[0;32muser@user-PC [0;35m [0;33m~/Documents/packageTest[0;36m (branchTest2)[0m[0K
-$[0K[3G[?25h
